@@ -1,0 +1,5 @@
+Exemplo de como clonar um repositório online para parte local
+
+HELLO WORLD
+
+link do Repositório no GitHub https://github.com/Vinicius315/AtividadeGT.git
